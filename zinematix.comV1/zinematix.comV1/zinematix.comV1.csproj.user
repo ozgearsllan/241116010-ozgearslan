@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="filmListesi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FormAcilis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formanaform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmBiletDetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmBiletOl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmBiletSorgulama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmFilmDetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmFilmListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmKullancıOlustur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmOyucuKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmOyuncuListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmSalonAtama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmYonetmenKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmYonetmenListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="liste.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="oyuncuListe.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="rmFilmKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="salonListesi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="yListearacı.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="YonetmenListesi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

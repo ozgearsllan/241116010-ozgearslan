@@ -1,0 +1,447 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|c:\\users\\arsla\\source\\repos\\zinematix.comv1\\zinematix.comv1\\frmsalonatama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|solutionrelative:zinematix.comv1\\frmsalonatama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comv1\\frmsalonatama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|solutionrelative:zinematix.comv1\\frmsalonatama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|c:\\users\\arsla\\source\\repos\\zinematix.comv1\\zinematix.comv1\\frmkullanc\u0131olustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|solutionrelative:zinematix.comv1\\frmkullanc\u0131olustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|c:\\users\\arsla\\source\\repos\\zinematix.comv1\\zinematix.comv1\\frmbiletol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|solutionrelative:zinematix.comv1\\frmbiletol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comv1\\frmkullanc\u0131olustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|solutionrelative:zinematix.comv1\\frmkullanc\u0131olustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comv1\\salonlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|solutionrelative:zinematix.comv1\\salonlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|c:\\users\\arsla\\source\\repos\\zinematix.comv1\\zinematix.comv1\\salonlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|solutionrelative:zinematix.comv1\\salonlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comv1\\yonetmenlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|solutionrelative:zinematix.comv1\\yonetmenlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comv1\\oyunculiste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|solutionrelative:zinematix.comv1\\oyunculiste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comv1\\formanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|solutionrelative:zinematix.comv1\\formanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comv1\\formacilis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|solutionrelative:zinematix.comv1\\formacilis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|c:\\users\\arsla\\source\\repos\\zinematix.comv1\\zinematix.comv1\\frmfilmliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|solutionrelative:zinematix.comv1\\frmfilmliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|c:\\users\\arsla\\source\\repos\\zinematix.comv1\\zinematix.comv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|solutionrelative:zinematix.comv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comv1\\frmbiletsorgulama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|solutionrelative:zinematix.comv1\\frmbiletsorgulama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comv1\\frmbiletdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|solutionrelative:zinematix.comv1\\frmbiletdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|c:\\users\\arsla\\source\\repos\\zinematix.comv1\\zinematix.comv1\\formanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|solutionrelative:zinematix.comv1\\formanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|c:\\users\\arsla\\source\\repos\\zinematix.comv1\\zinematix.comv1\\frmoyunculistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|solutionrelative:zinematix.comv1\\frmoyunculistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|c:\\users\\arsla\\source\\repos\\zinematix.comv1\\zinematix.comv1\\frmfilmdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|solutionrelative:zinematix.comv1\\frmfilmdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comv1\\frmoyunculistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|solutionrelative:zinematix.comv1\\frmoyunculistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|c:\\users\\arsla\\source\\repos\\zinematix.comv1\\zinematix.comv1\\frmkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|solutionrelative:zinematix.comv1\\frmkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comv1\\frmfilmdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|solutionrelative:zinematix.comv1\\frmfilmdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|c:\\users\\arsla\\source\\repos\\zinematix.comv1\\zinematix.comv1\\frmbiletdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|solutionrelative:zinematix.comv1\\frmbiletdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|c:\\users\\arsla\\source\\repos\\zinematix.comv1\\zinematix.comv1\\frmbiletsorgulama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|solutionrelative:zinematix.comv1\\frmbiletsorgulama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comv1\\frmbiletol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|solutionrelative:zinematix.comv1\\frmbiletol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|c:\\users\\arsla\\source\\repos\\zinematix.comv1\\zinematix.comv1\\ylistearac\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|solutionrelative:zinematix.comv1\\ylistearac\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comv1\\ylistearac\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|solutionrelative:zinematix.comv1\\ylistearac\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comv1\\frmkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8162ABE7-C84B-4930-BA04-0DCD5547A234}|zinematix.comV1\\zinematix.comV1.csproj|solutionrelative:zinematix.comv1\\frmkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "salonListesi.cs",
+              "DocumentMoniker": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\salonListesi.cs",
+              "RelativeDocumentMoniker": "zinematix.comV1\\salonListesi.cs",
+              "ToolTip": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\salonListesi.cs",
+              "RelativeToolTip": "zinematix.comV1\\salonListesi.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:24:55.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmOyuncuListesi.cs",
+              "DocumentMoniker": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FrmOyuncuListesi.cs",
+              "RelativeDocumentMoniker": "zinematix.comV1\\FrmOyuncuListesi.cs",
+              "ToolTip": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FrmOyuncuListesi.cs",
+              "RelativeToolTip": "zinematix.comV1\\FrmOyuncuListesi.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAASwDgAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T16:06:37.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmOyuncuListesi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FrmOyuncuListesi.cs",
+              "RelativeDocumentMoniker": "zinematix.comV1\\FrmOyuncuListesi.cs",
+              "ToolTip": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FrmOyuncuListesi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "zinematix.comV1\\FrmOyuncuListesi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T16:06:30.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmFilmListe.cs",
+              "DocumentMoniker": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FrmFilmListe.cs",
+              "RelativeDocumentMoniker": "zinematix.comV1\\FrmFilmListe.cs",
+              "ToolTip": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FrmFilmListe.cs",
+              "RelativeToolTip": "zinematix.comV1\\FrmFilmListe.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwC8AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T16:06:04.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmFilmDetay.cs",
+              "DocumentMoniker": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FrmFilmDetay.cs",
+              "RelativeDocumentMoniker": "zinematix.comV1\\FrmFilmDetay.cs",
+              "ToolTip": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FrmFilmDetay.cs",
+              "RelativeToolTip": "zinematix.comV1\\FrmFilmDetay.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:41:41.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmFilmDetay.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FrmFilmDetay.cs",
+              "RelativeDocumentMoniker": "zinematix.comV1\\FrmFilmDetay.cs",
+              "ToolTip": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FrmFilmDetay.cs [Tasar\u0131m]",
+              "RelativeToolTip": "zinematix.comV1\\FrmFilmDetay.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:00:17.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmKayit.cs",
+              "DocumentMoniker": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FrmKayit.cs",
+              "RelativeDocumentMoniker": "zinematix.comV1\\FrmKayit.cs",
+              "ToolTip": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FrmKayit.cs",
+              "RelativeToolTip": "zinematix.comV1\\FrmKayit.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAQwFkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T14:57:30.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FrmKayit.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FrmKayit.cs",
+              "RelativeDocumentMoniker": "zinematix.comV1\\FrmKayit.cs",
+              "ToolTip": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FrmKayit.cs [Tasar\u0131m]",
+              "RelativeToolTip": "zinematix.comV1\\FrmKayit.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T14:57:25.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "salonListesi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\salonListesi.cs",
+              "RelativeDocumentMoniker": "zinematix.comV1\\salonListesi.cs",
+              "ToolTip": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\salonListesi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "zinematix.comV1\\salonListesi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T14:56:36.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "yListearac\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\yListearac\u0131.cs",
+              "RelativeDocumentMoniker": "zinematix.comV1\\yListearac\u0131.cs",
+              "ToolTip": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\yListearac\u0131.cs",
+              "RelativeToolTip": "zinematix.comV1\\yListearac\u0131.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwD8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T14:33:02.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "yListearac\u0131.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\yListearac\u0131.cs",
+              "RelativeDocumentMoniker": "zinematix.comV1\\yListearac\u0131.cs",
+              "ToolTip": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\yListearac\u0131.cs [Tasar\u0131m]",
+              "RelativeToolTip": "zinematix.comV1\\yListearac\u0131.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T14:33:01.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmKullanc\u0131Olustur.cs",
+              "DocumentMoniker": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FrmKullanc\u0131Olustur.cs",
+              "RelativeDocumentMoniker": "zinematix.comV1\\FrmKullanc\u0131Olustur.cs",
+              "ToolTip": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FrmKullanc\u0131Olustur.cs",
+              "RelativeToolTip": "zinematix.comV1\\FrmKullanc\u0131Olustur.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA3wBwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T14:25:21.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmKullanc\u0131Olustur.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FrmKullanc\u0131Olustur.cs",
+              "RelativeDocumentMoniker": "zinematix.comV1\\FrmKullanc\u0131Olustur.cs",
+              "ToolTip": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FrmKullanc\u0131Olustur.cs [Tasar\u0131m]",
+              "RelativeToolTip": "zinematix.comV1\\FrmKullanc\u0131Olustur.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T14:23:03.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormAcilis.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FormAcilis.cs",
+              "RelativeDocumentMoniker": "zinematix.comV1\\FormAcilis.cs",
+              "ToolTip": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FormAcilis.cs [Tasar\u0131m]",
+              "RelativeToolTip": "zinematix.comV1\\FormAcilis.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T14:14:28.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "YonetmenListesi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\YonetmenListesi.cs",
+              "RelativeDocumentMoniker": "zinematix.comV1\\YonetmenListesi.cs",
+              "ToolTip": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\YonetmenListesi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "zinematix.comV1\\YonetmenListesi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T14:11:35.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "oyuncuListe.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\oyuncuListe.cs",
+              "RelativeDocumentMoniker": "zinematix.comV1\\oyuncuListe.cs",
+              "ToolTip": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\oyuncuListe.cs [Tasar\u0131m]",
+              "RelativeToolTip": "zinematix.comV1\\oyuncuListe.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T14:11:15.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\Program.cs",
+              "RelativeDocumentMoniker": "zinematix.comV1\\Program.cs",
+              "ToolTip": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\Program.cs",
+              "RelativeToolTip": "zinematix.comV1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T14:08:32.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmSalonAtama.cs",
+              "DocumentMoniker": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FrmSalonAtama.cs",
+              "RelativeDocumentMoniker": "zinematix.comV1\\FrmSalonAtama.cs",
+              "ToolTip": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FrmSalonAtama.cs",
+              "RelativeToolTip": "zinematix.comV1\\FrmSalonAtama.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAnwEAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T02:15:06.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmSalonAtama.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FrmSalonAtama.cs",
+              "RelativeDocumentMoniker": "zinematix.comV1\\FrmSalonAtama.cs",
+              "ToolTip": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FrmSalonAtama.cs [Tasar\u0131m]",
+              "RelativeToolTip": "zinematix.comV1\\FrmSalonAtama.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T02:12:49.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmBiletOl.cs",
+              "DocumentMoniker": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FrmBiletOl.cs",
+              "RelativeDocumentMoniker": "zinematix.comV1\\FrmBiletOl.cs",
+              "ToolTip": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FrmBiletOl.cs",
+              "RelativeToolTip": "zinematix.comV1\\FrmBiletOl.cs",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAjwLYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T02:28:35.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmBiletOl.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FrmBiletOl.cs",
+              "RelativeDocumentMoniker": "zinematix.comV1\\FrmBiletOl.cs",
+              "ToolTip": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FrmBiletOl.cs [Tasar\u0131m]",
+              "RelativeToolTip": "zinematix.comV1\\FrmBiletOl.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T02:16:48.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Formanaform.cs",
+              "DocumentMoniker": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\Formanaform.cs",
+              "RelativeDocumentMoniker": "zinematix.comV1\\Formanaform.cs",
+              "ToolTip": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\Formanaform.cs",
+              "RelativeToolTip": "zinematix.comV1\\Formanaform.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAqwGcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T02:12:59.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmBiletDetay.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FrmBiletDetay.cs",
+              "RelativeDocumentMoniker": "zinematix.comV1\\FrmBiletDetay.cs",
+              "ToolTip": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FrmBiletDetay.cs [Tasar\u0131m]",
+              "RelativeToolTip": "zinematix.comV1\\FrmBiletDetay.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T02:05:14.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmBiletDetay.cs",
+              "DocumentMoniker": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FrmBiletDetay.cs",
+              "RelativeDocumentMoniker": "zinematix.comV1\\FrmBiletDetay.cs",
+              "ToolTip": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FrmBiletDetay.cs",
+              "RelativeToolTip": "zinematix.comV1\\FrmBiletDetay.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAnwBUAAACyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T01:23:30.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmBiletSorgulama.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FrmBiletSorgulama.cs",
+              "RelativeDocumentMoniker": "zinematix.comV1\\FrmBiletSorgulama.cs",
+              "ToolTip": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FrmBiletSorgulama.cs [Tasar\u0131m]",
+              "RelativeToolTip": "zinematix.comV1\\FrmBiletSorgulama.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T23:41:19.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmBiletSorgulama.cs",
+              "DocumentMoniker": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FrmBiletSorgulama.cs",
+              "RelativeDocumentMoniker": "zinematix.comV1\\FrmBiletSorgulama.cs",
+              "ToolTip": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\FrmBiletSorgulama.cs",
+              "RelativeToolTip": "zinematix.comV1\\FrmBiletSorgulama.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwC4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T23:44:15.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Formanaform.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\Formanaform.cs",
+              "RelativeDocumentMoniker": "zinematix.comV1\\Formanaform.cs",
+              "ToolTip": "C:\\Users\\arsla\\source\\repos\\zinematix.comV1\\zinematix.comV1\\Formanaform.cs [Tasar\u0131m]",
+              "RelativeToolTip": "zinematix.comV1\\Formanaform.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T23:40:06.5Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
